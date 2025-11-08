@@ -1,6 +1,6 @@
 Problem statement: With the rapid growth of the electric vehicle (EV) industry, analyzing and forecasting car performance, specifications, and market trends has become crucial for manufacturers, analysts, and consumers. We make the EV GenAIAssist for gathering the information through the APIs. Inthis chatbot we can asked anything related to the Electric Vehicles.
 
-🧠 Week-1: Chatbot Creation & EV Vehicle Data Analysis 
+ Chatbot Creation & EV Vehicle Data Analysis 
 📋 Project Overview
 
 This repository contains two main parts:
