@@ -1,12 +1,51 @@
-# React + Vite
+Problem statement: With the rapid growth of the electric vehicle (EV) industry, analyzing and forecasting car performance, specifications, and market trends has become crucial for manufacturers, analysts, and consumers. We make the EV GenAIAssist for gathering the information through the APIs. Inthis chatbot we can asked anything related to the Electric Vehicles.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🧠 Week-1: Chatbot Creation & EV Vehicle Data Analysis 
+📋 Project Overview
 
-Currently, two official plugins are available:
+This repository contains two main parts:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Chatbot Development – a simple conversational chatbot prototype for EV-related interactions.
 
-## Expanding the ESLint configuration
+Data Analysis on Electric Vehicles (EVs) – preprocessing, cleaning, and exploration of electric vehicle datasets to derive insights.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+The goal is to combine AI-powered conversation with data analytics to understand and communicate EV industry trends effectively.
+
+⚙️ Features 
+🔹 Chatbot
+
+Basic conversational chatbot using APIs.
+
+Capable of answering EV-related queries.
+
+Customizable for integration with Hugging Face or OpenAI APIs.
+
+🔹 EV Data Analysis
+
+Data cleaning and preprocessing (handling missing values, outliers).
+
+Exploratory Data Analysis (EDA) with insights on electric vehicles.
+
+Visualizations showing trends in vehicle type, cost, and charging efficiency.
+
+Future scope: build ML models for prediction (e.g., EV range or price).
+
+🧰 Technologies Used Area Tools / Libraries Programming Language: HTML, CSS , JavaScript, Bootstrap, React.js and customizable for integration with Hugging Face or OpenAI APIs- 
+
+📊 Example Insights
+
+Top EV Manufacturers by market share
+
+Trends in EV adoption over years
+
+Chatbot demo responding to queries like:
+
+“Which EV has the best mileage?” “Show stats about electric cars under ₹20L.”
+
+🔮 Future Improvements
+
+Integrate chatbot with live EV market data.
+
+Build ML model to predict EV price or range.
+
+Add REST API for data access.
